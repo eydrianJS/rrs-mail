@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, TextField, TextareaAutosize } from '@material-ui/core';
+import { Grid, TextField } from '@material-ui/core';
 
 const Body = () => {
   return (
