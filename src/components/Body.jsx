@@ -3,7 +3,7 @@ import { Grid, TextField } from '@material-ui/core';
 
 const Body = () => {
   return (
-    <Grid container style={{ padding: 20, height: '75%' }}>
+    <Grid container style={{ padding: 20, height: '83%' }}>
       <Grid item xs={6} style={{ padding: 20, position: 'relative' }}>
         <div style={{ padding: 20 }}>
           <TextField

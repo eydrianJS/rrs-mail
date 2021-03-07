@@ -10,7 +10,7 @@ const Headers = () => {
         justifyContent: 'space-between',
         boxShadow: 'grey 0px 1px 17px 0px',
         width: '100%',
-        height: '10%',
+        height: '7%',
       }}
     >
       <div
